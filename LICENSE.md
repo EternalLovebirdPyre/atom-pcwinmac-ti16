@@ -1,4 +1,4 @@
-# 
+# Avanzado Atom flujo de trabajo para Mac OS | Automático Atom flujo de trabajo para PC Windows. Con ejecutor de pruebas y Docker Compose — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
